@@ -4,9 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // DailyEmployeeWage.DailyEmpWage();
-            //PartTimeEmpWage.EmpPartTimeWage();
-            PartTimeWage.EmpPayRoll();
+            WageForMonth.MonthlyWage();
         }
     }
 }
